@@ -44,7 +44,7 @@ I'm a university student at the Aberdeen-SCNU Joint College, majoring in Busines
 
 <div align="center">
 
-![Dingding113's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dingding113&show_icons=true&theme=tokyonight)
+![Dingding113's GitHub stats](https://github-readme-stats.vercel.app/api?username=ding113&show_icons=true&theme=tokyonight)
 
 </div>
 
